@@ -17,6 +17,7 @@
 		</Item>
 		<Item Name="DB Operator.lvclass" Type="LVClass" URL="../DB Operator/DB Operator.lvclass"/>
 		<Item Name="SQLite DB Operator.lvclass" Type="LVClass" URL="../SQLite DB Operator/SQLite DB Operator.lvclass"/>
+		<Item Name="Expenses Tracker Record.lvclass" Type="LVClass" URL="../Expenses Tracker Record/Expenses Tracker Record.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
