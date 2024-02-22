@@ -30,15 +30,6 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
 	<Item Name="Data Access" Type="Folder">
-		<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$M!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"R!)2&gt;T='6D;7:J9S"F=H*P=C"D&lt;'6B=G6E0Q!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#N!!Q!F=X"F9WFG;7-A:8*S&lt;X)A9W^E:3"U&lt;S"D&lt;'6B=C!I-$IA97RM+1!]!0!!#!!$!!1!"!!&amp;!!9!"!!%!!=#!!"A!!!."!!!!!!!!!!!!!!*!!!!#A!!!!!!!!!!!!!!#!!!!!!"!!A!!!!!</Property>
-			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-			<Property Name="NI.ClassItem.Flags" Type="Int">160</Property>
-			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">8400896</Property>
-		</Item>
 		<Item Name="Read Record Data.vi" Type="VI" URL="../Public/VIs/Data Access/Read Record Data.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;6!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AF&amp;=H*P=C"0&gt;81!"!!!!!R!5Q:3:7.P=G1!!%:!=!!?!!!B(U6Y='6O=W6T)&amp;2S97.L:8)A5G6D&lt;X*E,GRW9WRB=X-!'U6Y='6O=W6T)&amp;2S97.L:8)A5G6D&lt;X*E)%^V&gt;!!A1&amp;!!!Q!!!!%!!B.&amp;=H*P=C"*&lt;C!I&lt;G]A:8*S&lt;X)J!%:!=!!?!!!B(U6Y='6O=W6T)&amp;2S97.L:8)A5G6D&lt;X*E,GRW9WRB=X-!'E6Y='6O=W6T)&amp;2S97.L:8)A5G6D&lt;X*E)%FO!!"5!0!!$!!$!!1!"1!'!!1!"!!%!!1!"Q!%!!1!#!)!!(A!!!U)!!!!!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!!!!!!E!!!!!!"!!E!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>

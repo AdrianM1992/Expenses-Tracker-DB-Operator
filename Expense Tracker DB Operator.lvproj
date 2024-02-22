@@ -25,6 +25,8 @@
 			<Item Name="Expenses Tracker Transaction.lvclass" Type="LVClass" URL="../DB Records/Expenses Tracker Transaction/Expenses Tracker Transaction.lvclass"/>
 			<Item Name="Expenses Tracker Balance.lvclass" Type="LVClass" URL="../DB Records/Expenses Tracker Balance/Expenses Tracker Balance.lvclass"/>
 			<Item Name="Expenses Tracker Cycle.lvclass" Type="LVClass" URL="../DB Records/Expenses Tracker Cycle/Expenses Tracker Cycle.lvclass"/>
+			<Item Name="Expenses Tracker Saving Goal.lvclass" Type="LVClass" URL="../DB Records/Expenses Tracker Saving Goal/Expenses Tracker Saving Goal.lvclass"/>
+			<Item Name="Expenses Tracker Saving.lvclass" Type="LVClass" URL="../DB Records/Expenses Tracker Saving/Expenses Tracker Saving.lvclass"/>
 		</Item>
 		<Item Name="Database Interactions.lvclass" Type="LVClass" URL="../Database Interactions/Database Interactions.lvclass"/>
 		<Item Name="SQLite DB Operator.lvclass" Type="LVClass" URL="../SQLite DB Operator/SQLite DB Operator.lvclass"/>
@@ -175,6 +177,7 @@
 				<Item Name="Less Comparable.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/Comparison/Less/Less Comparable/Less Comparable.lvclass"/>
 				<Item Name="Sort 1D Array Core.vim" Type="VI" URL="/&lt;vilib&gt;/Array/Helpers/Sort 1D Array Core.vim"/>
 				<Item Name="Less.vim" Type="VI" URL="/&lt;vilib&gt;/Comparison/Less.vim"/>
+				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
 			</Item>
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Build Error Cluster__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/error/error.llb/Build Error Cluster__ogtk.vi"/>
