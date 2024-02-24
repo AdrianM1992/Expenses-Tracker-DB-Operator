@@ -19,17 +19,19 @@
 			<Item Name="Adding transaction tests.vi" Type="VI" URL="../Sandbox/Adding transaction tests.vi"/>
 		</Item>
 		<Item Name="DB Records" Type="Folder">
-			<Item Name="Expenses Tracker Record.lvclass" Type="LVClass" URL="../DB Records/Expenses Tracker Record/Expenses Tracker Record.lvclass"/>
-			<Item Name="Expenses Tracker Category.lvclass" Type="LVClass" URL="../DB Records/Expenses Tracker Category/Expenses Tracker Category.lvclass"/>
-			<Item Name="Expenses Tracker Subcategory.lvclass" Type="LVClass" URL="../DB Records/Expenses Tracker Subcategory/Expenses Tracker Subcategory.lvclass"/>
-			<Item Name="Expenses Tracker Transaction.lvclass" Type="LVClass" URL="../DB Records/Expenses Tracker Transaction/Expenses Tracker Transaction.lvclass"/>
-			<Item Name="Expenses Tracker Balance.lvclass" Type="LVClass" URL="../DB Records/Expenses Tracker Balance/Expenses Tracker Balance.lvclass"/>
-			<Item Name="Expenses Tracker Cycle.lvclass" Type="LVClass" URL="../DB Records/Expenses Tracker Cycle/Expenses Tracker Cycle.lvclass"/>
-			<Item Name="Expenses Tracker Saving Goal.lvclass" Type="LVClass" URL="../DB Records/Expenses Tracker Saving Goal/Expenses Tracker Saving Goal.lvclass"/>
-			<Item Name="Expenses Tracker Saving.lvclass" Type="LVClass" URL="../DB Records/Expenses Tracker Saving/Expenses Tracker Saving.lvclass"/>
+			<Item Name="Expenses Tracker Record.lvclass" Type="LVClass" URL="../Interfaces/Expenses Tracker Record/Expenses Tracker Record.lvclass"/>
+			<Item Name="Expenses Tracker Balance.lvclass" Type="LVClass" URL="../Clasess/DB Records/Expenses Tracker Balance/Expenses Tracker Balance.lvclass"/>
+			<Item Name="Expenses Tracker Category.lvclass" Type="LVClass" URL="../Clasess/DB Records/Expenses Tracker Category/Expenses Tracker Category.lvclass"/>
+			<Item Name="Expenses Tracker Cycle.lvclass" Type="LVClass" URL="../Clasess/DB Records/Expenses Tracker Cycle/Expenses Tracker Cycle.lvclass"/>
+			<Item Name="Expenses Tracker Saving.lvclass" Type="LVClass" URL="../Clasess/DB Records/Expenses Tracker Saving/Expenses Tracker Saving.lvclass"/>
+			<Item Name="Expenses Tracker Saving Goal.lvclass" Type="LVClass" URL="../Clasess/DB Records/Expenses Tracker Saving Goal/Expenses Tracker Saving Goal.lvclass"/>
+			<Item Name="Expenses Tracker Subcategory.lvclass" Type="LVClass" URL="../Clasess/DB Records/Expenses Tracker Subcategory/Expenses Tracker Subcategory.lvclass"/>
+			<Item Name="Expenses Tracker Transaction.lvclass" Type="LVClass" URL="../Clasess/DB Records/Expenses Tracker Transaction/Expenses Tracker Transaction.lvclass"/>
 		</Item>
-		<Item Name="Database Interactions.lvclass" Type="LVClass" URL="../Database Interactions/Database Interactions.lvclass"/>
-		<Item Name="SQLite DB Operator.lvclass" Type="LVClass" URL="../SQLite DB Operator/SQLite DB Operator.lvclass"/>
+		<Item Name="DB Operators" Type="Folder">
+			<Item Name="Database Interactions.lvclass" Type="LVClass" URL="../Interfaces/Database Interactions/Database Interactions.lvclass"/>
+			<Item Name="SQLite DB Operator.lvclass" Type="LVClass" URL="../Clasess/SQLite DB Operator/SQLite DB Operator.lvclass"/>
+		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
@@ -326,14 +328,6 @@
 				<Item Name="Delete Elements from 1D Array (Boolean)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Delete Elements from 1D Array (Boolean)__ogtk.vi"/>
 				<Item Name="Delete Elements from Array__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Delete Elements from Array__ogtk.vi"/>
 			</Item>
-			<Item Name="DB Operator.lvclass" Type="LVClass" URL="../DB Operator/DB Operator.lvclass"/>
-			<Item Name="Category.ctl" Type="VI" URL="../DB Operator/Public/Ctrls/DB Controls/Category.ctl"/>
-			<Item Name="Cycle.ctl" Type="VI" URL="../DB Operator/Public/Ctrls/DB Controls/Cycle.ctl"/>
-			<Item Name="Saving Goal.ctl" Type="VI" URL="../DB Operator/Public/Ctrls/DB Controls/Saving Goal.ctl"/>
-			<Item Name="Saving.ctl" Type="VI" URL="../DB Operator/Public/Ctrls/DB Controls/Saving.ctl"/>
-			<Item Name="Subcategory.ctl" Type="VI" URL="../DB Operator/Public/Ctrls/DB Controls/Subcategory.ctl"/>
-			<Item Name="Transaction.ctl" Type="VI" URL="../DB Operator/Public/Ctrls/DB Controls/Transaction.ctl"/>
-			<Item Name="Balance.ctl" Type="VI" URL="../DB Operator/Public/Ctrls/DB Controls/Balance.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
